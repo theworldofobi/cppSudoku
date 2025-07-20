@@ -1,0 +1,1 @@
+clear && make clean && make && clear && ./bin/sudoku
